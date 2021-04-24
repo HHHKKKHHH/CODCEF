@@ -17,5 +17,14 @@ opencv-python==3.4.2.17
 ```bash
 git clone https://github.com/HHHKKKHHH/FeaNet
 cd FeaNet/
+pip install -r requirements.txt
+```
+### Train
+```bash
+python train.py
+```
+### Test
+```bash
+python test.py
 ```
 
