@@ -13,4 +13,9 @@ torchvision==0.4.2
 opencv-python==3.4.2.17
 ```
 
-## Clone repository
+## Usage
+```bash
+git clone https://github.com/HHHKKKHHH/FeaNet
+cd FeaNet/
+```
+
